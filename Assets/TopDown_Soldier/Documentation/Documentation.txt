@@ -1,0 +1,35 @@
+	
+--------------Top Down Hero----------------------------
+
+This pack contains 2D Top down hero with basic animations.
+
+Technical Details:-
+		
+		- Characters : 2
+		- Style : 2D, Top Down, Cartoon
+		- Animation : 3 (Idle, Walk, Attack)	
+		- FPS : 25		
+		- Sprite Resolution & Frames:
+			-Idle (4000 x 2804)20 Frames 
+			-Walk(4000 x 2804)20 Frames
+			-Attack(4800 x 2103)18 Frames
+Features:-
+	- 2 Variations(Level-1 character & Level-2 character)
+	- Lv1 character : Comes with a normal knife on both hands.
+	- Lv2 character : Comes with a Helmet, tattoo on Arms and heavy metal knife.
+	- Smooth animations
+	- Mobile ready asset
+		
+How to use:-
+	
+	Simply drag and drop the prefab to your scene and use it.
+	(Prefab(s) located under 
+	Asset > TopDown_Solider > Prefabs).
+
+..................................................................................
+
+About Us : "SR Studios Kerala", Game developing company located in Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thanks for downloading this package................................
